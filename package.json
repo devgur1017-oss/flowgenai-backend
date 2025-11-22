@@ -14,6 +14,10 @@
     "cloudinary": "^1.34.0",
     "razorpay": "^2.1.0",
     "paypal-rest-sdk": "^1.8.1"
+     },
+  "engines": {
+    "node": "18.x"
   }
 }
+
 
